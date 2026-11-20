@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legal Task Revision"
+  short_description: "Revise legal task files and rubrics after review"
+  default_prompt: "Use $legal-task-revise to revise this legal task archive against the supplied reviews, preserve any assigned redline format, and return the revised files, paste-ready corrections, and a change overview."

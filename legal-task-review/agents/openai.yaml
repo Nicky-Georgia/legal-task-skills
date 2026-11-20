@@ -1,0 +1,3 @@
+interface:
+  display_name: "Legal Task Review"
+  short_description: "Review zipped legal evaluation task packages"
